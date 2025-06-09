@@ -18,26 +18,27 @@ MindVault is a calming, structured mobile app designed to help users build **men
 
 ## 🎯 Who is it For?
 
-- Young professionals managing stress or burnout  
-- Students juggling academics and personal life  
-- Remote workers battling isolation  
-- Anyone looking for a **low-barrier, private** emotional wellness tool  
+- Young professionals managing stress or burnout
+- Students juggling academics and personal life
+- Remote workers battling isolation
+- Anyone looking for a **low-barrier, private** emotional wellness tool
 
 ---
 
 ## 🚀 Real-Life Daily Flow
 
-1. Open the app — *"How are you feeling today?"*
-2. Log your mood  
-3. Get personalized suggestions: journaling, calm tools, or AI conversation  
-4. Receive AI-powered insights and return the next day  
-5. Build healthy habits through streaks and subtle motivation  
+1. Open the app — _"How are you feeling today?"_
+2. Log your mood
+3. Get personalized suggestions: journaling, calm tools, or AI conversation
+4. Receive AI-powered insights and return the next day
+5. Build healthy habits through streaks and subtle motivation
 
 ---
 
 ## 🧠 Powered by AI
 
 MindVault integrates **Together.ai** (LLaMA 3/4) for:
+
 - Insightful journal feedback
 - Meaningful conversation in the AI Coach
 - Adaptable tones: friendly, formal, or motivational
@@ -46,46 +47,46 @@ MindVault integrates **Together.ai** (LLaMA 3/4) for:
 
 ## 🔧 Tech Stack (High-Level Overview)
 
-- **Flutter** for cross-platform native app experience  
-- **Firebase** for authentication, real-time database, and analytics  
-- **Riverpod** & `go_router` for scalable architecture  
-- **Hive** for offline journaling  
-- **RevenueCat** for subscription management  
-- **AdMob** for non-intrusive free-tier monetization  
+- **Flutter** for cross-platform native app experience
+- **Firebase** for authentication, real-time database, and analytics
+- **Riverpod** & `go_router` for scalable architecture
+- **Hive** for offline journaling
+- **RevenueCat** for subscription management
+- **AdMob** for non-intrusive free-tier monetization
 
 ---
 
 ## 💡 Architecture Patterns
 
-- MVVM Design Pattern  
-- Repository & Service Layer for clean logic separation  
-- Resilient AI prompt handling with streaming UI  
-- Unit, Widget, and Integration testing included  
+- MVVM Design Pattern
+- Repository & Service Layer for clean logic separation
+- Resilient AI prompt handling with streaming UI
+- Unit, Widget, and Integration testing included
 
 ---
 
 ## 🔒 Privacy First
 
-- Journals encrypted in transit and at rest  
-- Option for client-side encryption  
-- No third-party sharing — **your mind, your data**  
+- Journals encrypted in transit and at rest
+- Option for client-side encryption
+- No third-party sharing — **your mind, your data**
 
 ---
 
 ## 💸 Business Model
 
-| Feature             | Free Plan            | Premium Plan ($8.99/month) |
-|---------------------|----------------------|-----------------------------|
-| Mood Tracking       | ✅                   | ✅                          |
-| Journaling          | 3 entries/day        | Unlimited                   |
-| AI Chat             | Basic Replies        | Full Sessions + Memory      |
-| Insights & Trends   | ❌                   | ✅                          |
-| Calm Tools          | ✅                   | ✅                          |
-| Ads                 | None                 | None                        |
+| Feature           | Free Plan     | Premium Plan ($8.99/month) |
+| ----------------- | ------------- | -------------------------- |
+| Mood Tracking     | ✅            | ✅                         |
+| Journaling        | 3 entries/day | Unlimited                  |
+| AI Chat           | Basic Replies | Full Sessions + Memory     |
+| Insights & Trends | ❌            | ✅                         |
+| Calm Tools        | ✅            | ✅                         |
+| Ads               | None          | None                       |
 
 ---
 
- ## 📸 Screenshots (Grid View)
+## 📸 Screenshots (Grid View)
 
 <div align="center">
 
@@ -93,26 +94,23 @@ MindVault integrates **Together.ai** (LLaMA 3/4) for:
   <tr>
     <td><img src="https://github.com/dipakrana844/Mind-Vault-App/blob/main/upload/onboarding.jpg" width="200"/></td>
     <td><img src="https://github.com/dipakrana844/Mind-Vault-App/blob/main/upload/signin.jpg" width="200"/></td>
-  </tr>
-  <tr>
     <td><img src="https://github.com/dipakrana844/Mind-Vault-App/blob/main/upload/signup.jpg" width="200"/></td>
-    <td><img src="https://github.com/dipakrana844/Mind-Vault-App/blob/main/upload/dashboard.jpg" width="200"/></td>
-  </tr>
   </tr>
   <tr>
+    
+    <td><img src="https://github.com/dipakrana844/Mind-Vault-App/blob/main/upload/dashboard.jpg" width="200"/></td>
     <td><img src="https://github.com/dipakrana844/Mind-Vault-App/blob/main/upload/journal.jpg" width="200"/></td>
     <td><img src="https://github.com/dipakrana844/Mind-Vault-App/blob/main/upload/aichat.jpg" width="200"/></td>
   </tr>
-  </tr>
+
   <tr>
     <td><img src="https://github.com/dipakrana844/Mind-Vault-App/blob/main/upload/calmtools.jpg" width="200"/></td>
     <td><img src="https://github.com/dipakrana844/Mind-Vault-App/blob/main/upload/setting.jpg" width="200"/></td>
-    <td><img src="https://github.com/dipakrana844/Mind-Vault-App/blob/main/upload/premium.jpg" width="200"/></td>
+    <td><img src="https://github.com/dipakrana844/Mind-Vault-App/blob/main/upload/setting.jpg" width="200"/></td>
   </tr>
 </table>
 
 </div>
-
 
 ---
 
@@ -138,4 +136,4 @@ Created by [Dipak Rana]
 
 ---
 
-> 🧠 *"Mental fitness is not a luxury. MindVault makes it a habit."*
+> 🧠 _"Mental fitness is not a luxury. MindVault makes it a habit."_
