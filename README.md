@@ -116,9 +116,8 @@ MindVault integrates **Together.ai** (LLaMA 3/4) for:
 
 ## 🎥 Demo Video
 
-[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
+[![Watch the demo]([https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg](https://github.com/dipakrana844/Mind-Vault-App/blob/main/upload/mindvault.mp4))]([https://www.youtube.com/watch?v=VIDEO_ID_HERE](https://github.com/dipakrana844/Mind-Vault-App/blob/main/upload/mindvault.mp4))
 
-> Replace `VIDEO_ID_HERE` with your actual YouTube video ID (e.g., `dQw4w9WgXcQ`)
 
 ---
 
