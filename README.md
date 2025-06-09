@@ -87,9 +87,7 @@ MindVault integrates **Together.ai** (LLaMA 3/4) for:
 
 ## 📸 Screenshots
 
-| Mood Check-In | Journaling | AI Coach Chat | Trends Dashboard |
-|---------------|------------|---------------|------------------|
-| ![](assets/images/screenshot_mood.png) | ![](assets/images/screenshot_journaling.png) | ![](assets/images/screenshot_ai_chat.png) | ![](assets/images/screenshot_trends.png) |
+| ![](https://github.com/dipakrana844/Mind-Vault-App/blob/main/upload/aichat.jpg) | ![](assets/images/screenshot_journaling.png) | ![](assets/images/screenshot_ai_chat.png) | ![](assets/images/screenshot_trends.png) |
 
 ---
 
