@@ -18,20 +18,20 @@ MindVault is a calming, structured mobile app designed to help users build **men
 
 ## 🎯 Who is it For?
 
-- Young professionals managing stress or burnout
-- Students juggling academics and personal life
-- Remote workers battling isolation
-- Anyone looking for a **low-barrier, private** emotional wellness tool
+- Young professionals managing stress or burnout  
+- Students juggling academics and personal life  
+- Remote workers battling isolation  
+- Anyone looking for a **low-barrier, private** emotional wellness tool  
 
 ---
 
 ## 🚀 Real-Life Daily Flow
 
 1. Open the app — *"How are you feeling today?"*
-2. Log your mood
-3. Get personalized suggestions: journaling, calm tools, or AI conversation
-4. Receive AI-powered insights and return the next day
-5. Build healthy habits through streaks and subtle motivation
+2. Log your mood  
+3. Get personalized suggestions: journaling, calm tools, or AI conversation  
+4. Receive AI-powered insights and return the next day  
+5. Build healthy habits through streaks and subtle motivation  
 
 ---
 
@@ -46,29 +46,29 @@ MindVault integrates **Together.ai** (LLaMA 3/4) for:
 
 ## 🔧 Tech Stack (High-Level Overview)
 
-- **Flutter** for cross-platform native app experience
-- **Firebase** for authentication, real-time database, and analytics
-- **Riverpod** & `go_router` for scalable architecture
-- **Hive** for offline journaling
-- **RevenueCat** for subscription management
-- **AdMob** for non-intrusive free-tier monetization
+- **Flutter** for cross-platform native app experience  
+- **Firebase** for authentication, real-time database, and analytics  
+- **Riverpod** & `go_router` for scalable architecture  
+- **Hive** for offline journaling  
+- **RevenueCat** for subscription management  
+- **AdMob** for non-intrusive free-tier monetization  
 
 ---
 
 ## 💡 Architecture Patterns
 
-- MVVM Design Pattern
-- Repository & Service Layer for clean logic separation
-- Resilient AI prompt handling with streaming UI
-- Unit, Widget, and Integration testing included
+- MVVM Design Pattern  
+- Repository & Service Layer for clean logic separation  
+- Resilient AI prompt handling with streaming UI  
+- Unit, Widget, and Integration testing included  
 
 ---
 
 ## 🔒 Privacy First
 
-- Journals encrypted in transit and at rest
-- Option for client-side encryption
-- No third-party sharing — **your mind, your data**
+- Journals encrypted in transit and at rest  
+- Option for client-side encryption  
+- No third-party sharing — **your mind, your data**  
 
 ---
 
@@ -85,23 +85,19 @@ MindVault integrates **Together.ai** (LLaMA 3/4) for:
 
 ---
 
-## 📸 Gallery
+## 📸 Screenshots
 
-> 💡 Add screenshots and GIFs here of:
-> - Mood check-in screen
-> - AI journaling screen
-> - Chat with AI coach
-> - Emotional trends dashboard
-> - Gamified streaks UI
+| Mood Check-In | Journaling | AI Coach Chat | Trends Dashboard |
+|---------------|------------|---------------|------------------|
+| ![](assets/images/screenshot_mood.png) | ![](assets/images/screenshot_journaling.png) | ![](assets/images/screenshot_ai_chat.png) | ![](assets/images/screenshot_trends.png) |
 
 ---
 
-## 📽️ Optional: Demo Video
+## 🎥 Demo Video
 
-> Link to a YouTube or Loom video showcasing:
-> - Onboarding flow
-> - Core features in action
-> - Day-to-day user journey
+[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
+
+> Replace `VIDEO_ID_HERE` with your actual YouTube video ID (e.g., `dQw4w9WgXcQ`)
 
 ---
 
@@ -115,7 +111,7 @@ Unlike generic journaling or mental health apps, MindVault focuses on **daily mi
 
 Created by [Dipak Rana]  
 📧 dipak.rana.dev@gmail.com
-🔗 [your-portfolio-site.com](https://erdipakrana.web.app)
+🔗 [Dipak-Rana-portfolio](https://erdipakrana.web.app)
 
 ---
 
