@@ -97,7 +97,6 @@ MindVault integrates **Together.ai** (LLaMA 3/4) for:
     <td><img src="https://github.com/dipakrana844/Mind-Vault-App/blob/main/upload/signup.jpg" width="200"/></td>
   </tr>
   <tr>
-
     <td><img src="https://github.com/dipakrana844/Mind-Vault-App/blob/main/upload/dashboard.jpg" width="200"/></td>
      <td><img src="https://github.com/dipakrana844/Mind-Vault-App/blob/main/upload/journal.jpg" width="200"/></td>
     <td><img src="https://github.com/dipakrana844/Mind-Vault-App/blob/main/upload/aichat.jpg" width="200"/></td>
